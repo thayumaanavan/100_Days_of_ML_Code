@@ -1,8 +1,6 @@
-# 100DaysOfMLCode
+# I've joined the #100DaysOfMLCode Challenge.
 
-## Overview
-
-These are the instructions for [this]() video on Youtube by Siraj Raval for the #100DaysofMLCode Challenge. 
+* [Log - click here to see my progress](log.md)
 
 ## Motivation
 
@@ -11,10 +9,6 @@ fighting fraud, generating music, improving supply chain efficiency, the list of
 to be able to make valuable contributions to the world, we need to master this technology. This is a call to action, a battle cry, a spark that
 will light a movement to radically improve the state of humanity. 100 Days of ML Code is a committment to better your understanding of
 this powerful tool by dedicating at least 1 hour of your time everyday to studying and/or coding machine learning for 100 days. 
-
-## Eligibility 
-
-- Everyone is eligible, even people who've never coded before
 
 ## The 3 Rules
 
@@ -38,10 +32,3 @@ initiatives and resource allocation to help fight life-threatening pandemics. Yo
 - [Tensorflow Documentation](https://www.tensorflow.org/tutorials/)
 - [A bunch of online courses](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md)
 
-## Awards
-
-- Siraj Raval will give a shoutout to some of the Wizards who succesfully complete the challenge, notify him if you've completed
-it via Twitter [@sirajraval](https://twitter.com/sirajraval)
-- By the end of 100 days, you'll be expected to have a project you've contributed to, whether your own or another. The more impact
-you've had, the more likely you'll get a shoutout. Impact comes in the form of good documentation of your journey so that others can follow,
-a project that improves the lives of other people, or real progress in your own ability to code machine learning.
